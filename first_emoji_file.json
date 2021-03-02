@@ -1,0 +1,22 @@
+{
+    "Students_data":[
+       {
+         "title":"Money Mouth",
+          "symbol":"🤑",
+          "keywords":
+          "money-mouth face smiley win win money money emotion emotion boys night boys night"
+      },
+       {
+        "title": "Nerd",
+        "symbol": "🤓",
+        "keywords": "nerd face smiley glasses"
+
+       },
+       {
+        "title": "Sunglasses",
+        "symbol": "😎",
+        "keywords":
+          "smiling face with sunglasses silly smiley emojione glasses boys night boys night"
+       }
+    ]
+}       
